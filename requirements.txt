@@ -1,0 +1,4 @@
+filterpy
+numpy
+numba
+scipy
