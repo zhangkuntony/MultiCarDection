@@ -2,3 +2,5 @@ filterpy
 numpy
 numba
 scipy
+imutils
+opencv-python
